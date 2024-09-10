@@ -1,0 +1,501 @@
+﻿Number,Artist,Gender
+1,The Beatles,Male
+2,The Beach Boys,Male
+3,The Beatles,Male
+4,Bob Dylan,Male
+5,The Beatles,Male
+6,Marvin Gaye,Male
+7,The Rolling Stones,Male
+8,The Clash,Male
+9,Bob Dylan,Male
+10,The Beatles,Male
+11,Elvis Presley,Male
+12,Miles Davis,Male
+13,The Velvet Underground,Mixed
+14,The Beatles,Male
+15,The Jimi Hendrix Experience,Male
+16,Bob Dylan,Male
+17,Nirvana,Male
+18,Bruce Springsteen,Male
+19,Van Morrison,Male
+20,Michael Jackson,Male
+21,Chuck Berry,Male
+22,Robert Johnson,Male
+23,John Lennon / Plastic Ono Band,Mixed
+24,Stevie Wonder,Male
+25,James Brown,Male
+26,Fleetwood Mac,Mixed
+27,U2,Male
+28,The Who,Male
+29,Led Zeppelin,Male
+30,Joni Mitchell,Female
+31,Bob Dylan,Male
+32,The Rolling Stones,Male
+33,Ramones,Male
+34,The Band,Male
+35,David Bowie,Male
+36,Carole King,Female
+37,Eagles,Male
+38,Muddy Waters,Male
+39,The Beatles,Male
+40,Love,Male
+41,Sex Pistols,Male
+42,The Doors,Male
+43,Pink Floyd,Male
+44,Patti Smith,Female
+45,The Band,Male
+46,Bob Marley & The Wailers,Male
+47,John Coltrane,Male
+48,Public Enemy,Male
+49,The Allman Brothers Band,Male
+50,Little Richard,Male
+51,Simon & Garfunkel,Male
+52,Al Green,Male
+53,The Beatles,Male
+54,Ray Charles,Male
+55,The Jimi Hendrix Experience,Male
+56,Elvis Presley,Male
+57,Stevie Wonder,Male
+58,The Rolling Stones,Male
+59,Creedence Clearwater Revival,Male
+60,Captain Beefheart & His Magic Band,Male
+61,Sly & The Family Stone,Mixed
+62,Guns N' Roses,Male
+63,U2,Male
+64,The Rolling Stones,Male
+65,Phil Spector,Male
+66,Van Morrison,Male
+67,Radiohead,Male
+68,Michael Jackson,Male
+69,Led Zeppelin,Male
+70,Billy Joel,Male
+71,Paul Simon,Male
+72,Curtis Mayfield,Male
+73,Led Zeppelin,Male
+74,Neil Young,Male
+75,James Brown,Male
+76,Prince and the Revolution,Male
+77,AC/DC,Male
+78,Otis Redding,Male
+79,Led Zeppelin,Male
+80,John Lennon,Male
+81,The Clash,Male
+82,Neil Young,Male
+83,The Jimi Hendrix Experience,Male
+84,Aretha Franklin,Female
+85,Aretha Franklin,Female
+86,Bruce Springsteen,Male
+87,Pink Floyd,Male
+88,Johnny Cash,Male
+89,Dusty Springfield,Male
+90,Stevie Wonder,Male
+91,Elton John,Male
+92,Buddy Holly,Male
+93,Prince,Male
+94,Hank Williams,Male
+95,Miles Davis,Male
+96,The Who,Male
+97,Bob Dylan,Male
+98,Elvis Costello,Male
+99,Sly & The Family Stone,Mixed
+100,The Zombies,Male
+101,Frank Sinatra,Male
+102,Cream,Male
+103,John Coltrane,Male
+104,James Taylor,Male
+105,Ray Charles,Male
+106,Ramones,Male
+107,Sam Cooke,Male
+108,David Bowie,Male
+109,The Rolling Stones,Male
+110,The Velvet Underground,Male
+111,Radiohead,Male
+112,The Mamas and the Papas,Mixed
+113,Joni Mitchell,Female
+114,Cream,Male
+115,The Who,Male
+116,The Rolling Stones,Male
+117,Derek and the Dominos,Male
+118,Kanye West,Male
+119,Etta James,Female
+120,The Byrds,Male
+121,Sly & The Family Stone,Mixed
+122,Various Artists,Mixed
+123,Run D.M.C.,Male
+124,Moby Grape,Male
+125,Janis Joplin,Female
+126,The Wailers,Male
+127,The Byrds,Male
+128,Iggy and The Stooges,Male
+129,Talking Heads,Male
+130,Television,Male
+131,Black Sabbath,Male
+132,Various Artists,Mixed
+133,Bruce Springsteen,Male
+134,The Notorious B.I.G.,Male
+135,Pavement,Male
+136,Elton John,Male
+137,The Replacements,Male
+138,Dr. Dre,Male
+139,The Meters,Male
+140,Blondie,Mixed
+141,B.B. King,Male
+142,Phil Spector,Male
+143,"Dr. John, the Night Tripper",Male
+144,N.W.A,Male
+145,Steely Dan,Male
+146,Jefferson Airplane,Mixed
+147,"Crosby, Stills, Nash & Young",Male
+148,Led Zeppelin,Male
+149,Santana,Male
+150,Bruce Springsteen,Male
+151,Arcade Fire,Mixed
+152,The B 52's,Mixed
+153,A Tribe Called Quest,Male
+154,Howlin' Wolf,Male
+155,Pretenders,Mixed
+156,Beastie Boys,Male
+157,Joy Division,Male
+158,Elton John,Male
+159,KISS,Male
+160,T. Rex,Male
+161,Otis Redding,Male
+162,Radiohead,Male
+163,Prince,Male
+164,Linda Ronstadt,Female
+165,Marvin Gaye,Male
+166,Elvis Costello & The Attractions,Male
+167,Metallica,Male
+168,Elvis Costello,Male
+169,Bob Marley & The Wailers,Male
+170,The Who,Male
+171,The Byrds,Male
+172,Rod Stewart,Male
+173,Todd Rundgren,Male
+174,Bob Dylan,Male
+175,Carpenters,Mixed
+176,Aerosmith,Male
+177,Funkadelic,Mixed
+178,Curtis Mayfield and The Impressions,Male
+179,ABBA,Mixed
+180,The Rolling Stones,Male
+181,Bob Marley & The Wailers,Male
+182,Fleetwood Mac,Mixed
+183,Willie Nelson,Male
+184,Madonna,Female
+185,The Stooges,Male
+186,Sly & The Family Stone,Mixed
+187,Peter Gabriel,Male
+188,Buffalo Springfield,Male
+189,Quicksilver Messenger Service,Male
+190,Elvis Presley,Male
+191,The Stooges,Male
+192,The Flying Burrito Brothers,Male
+193,Green Day,Male
+194,Lou Reed,Male
+195,John Mayall & The Bluesbreakers,Male
+196,Various Artists,Mixed
+197,R.E.M.,Male
+198,Little Walter,Male
+199,The Strokes,Male
+200,AC/DC,Male
+201,Nine Inch Nails,Male
+202,Simon & Garfunkel,Male
+203,Michael Jackson,Male
+204,Bob Dylan,Male
+205,Cream,Male
+206,Prince,Male
+207,Santana,Male
+208,Cat Stevens,Male
+209,Pearl Jam,Male
+210,Neil Young & Crazy Horse,Male
+211,Pink Floyd,Male
+212,Pavement,Male
+213,The Rolling Stones,Male
+214,Ike & Tina Turner,Mixed
+215,New York Dolls,Male
+216,Bo Diddley,Male
+217,"Bobby ""Blue"" Bland",Male
+218,The Smiths,Male
+219,Beastie Boys,Male
+220,The Meters,Male
+221,My Bloody Valentine,Mixed
+222,Professor Longhair,Male
+223,U2,Male
+224,Neil Diamond,Male
+225,Green Day,Male
+226,Bruce Springsteen,Male
+227,Pixies,Mixed
+228,Eric B. & Rakim,Male
+229,Aerosmith,Male
+230,Bonnie Raitt,Female
+231,Queen,Male
+232,The Kinks,Male
+233,The Byrds,Male
+234,Simon & Garfunkel,Male
+235,Patsy Cline,Female
+236,Jackie Wilson,Male
+237,The Who,Male
+238,Howlin' Wolf,Male
+239,Madonna,Female
+240,Steely Dan,Male
+241,The Replacements,Male
+242,Run D.M.C.,Male
+243,Black Sabbath,Male
+244,Eminem,Male
+245,Jerry Lee Lewis,Male
+246,The Mothers of Invention,Male
+247,The Grateful Dead,Male
+248,Ornette Coleman,Male
+249,R.E.M.,Male
+250,Jay Z,Male
+251,David Bowie,Male
+252,Jay Z,Male
+253,Bruce Springsteen,Male
+254,Otis Redding,Male
+255,Metallica,Male
+256,Kraftwerk,Male
+257,Whitney Houston,Female
+258,The Kinks,Male
+259,Janet,Female
+260,Willie Nelson,Male
+261,Grateful Dead,Male
+262,"Crosby, Stills & Nash",Male
+263,Tracy Chapman,Female
+264,Grateful Dead,Male
+265,Ray Charles,Male
+266,"Blood, Sweat & Tears",Male
+267,The Who,Male
+268,Paul Simon,Male
+269,The Jesus and Mary Chain,Male
+270,The Rolling Stones,Male
+271,The Beach Boys,Male
+272,Sleater Kinney,Female
+273,Smokey Robinson & The Miracles,Male
+274,LaBelle,Female
+275,Eminem,Male
+276,Parliament,Male
+277,Janet Jackson,Female
+278,Various,Mixed
+279,David Bowie,Male
+280,U2,Male
+281,Mary J. Blige,Female
+282,Muddy Waters,Male
+283,Barry White,Male
+284,The Cars,Male
+285,Stevie Wonder,Male
+286,Al Green,Male
+287,X,Mixed
+288,Grateful Dead,Male
+289,The Kinks,Male
+290,Al Green,Male
+291,Talking Heads,Male
+292,Bob Dylan and the Band,Male
+293,The Velvet Underground,Male
+294,MC5,Male
+295,Leonard Cohen,Male
+296,The Smiths,Male
+297,The Mothers of Invention,Male
+298,Kanye West,Male
+299,Weezer,Male
+300,Black Sabbath,Male
+301,Dolly Parton,Female
+302,Public Enemy,Male
+303,Bob Dylan,Male
+304,Jeff Buckley,Male
+305,Lucinda Williams,Female
+306,Beck,Male
+307,The Beatles,Male
+308,Frank Sinatra,Male
+309,Creedence Clearwater Revival,Male
+310,Red Hot Chili Peppers,Male
+311,Various,Mixed
+312,Jane's Addiction,Male
+313,Nirvana,Male
+314,Lauryn Hill,Female
+315,Tom Petty and the Heartbreakers,Male
+316,The Velvet Underground,Male
+317,Pixies,Mixed
+318,The O'Jays,Male
+319,The Wailers,Male
+320,Radiohead,Male
+321,Nick Drake,Male
+322,Randy Newman,Male
+323,The Police,Male
+324,David Bowie,Male
+325,Eric Clapton,Male
+326,The Cure,Male
+327,Liz Phair,Female
+328,Sonic Youth,Mixed
+329,James Brown,Male
+330,Neil Young,Male
+331,The Beatles,Male
+332,Richard & Linda Thompson,Mixed
+333,X,Mixed
+334,Graham Parker & The Rumour,Male
+335,Soundgarden,Male
+336,Radiohead,Male
+337,Jethro Tull,Male
+338,Big Brother & the Holding Company,Mixed
+339,Tom Waits,Male
+340,Black Flag,Male
+341,Moby,Male
+342,Depeche Mode,Male
+343,Meat Loaf,Male
+344,Lou Reed,Male
+345,Talking Heads,Male
+346,De La Soul,Male
+347,Pink Floyd,Male
+348,Muddy Waters,Male
+349,Jay Z,Male
+350,The Yardbirds,Male
+351,Neil Young & Crazy Horse,Male
+352,Dire Straits,Male
+353,Kanye West,Male
+354,Billy Joel,Male
+355,The Yardbirds,Male
+356,Randy Newman,Male
+357,The Rolling Stones,Male
+358,Miles Davis,Male
+359,Elton John,Male
+360,Buzzcocks,Male
+361,OutKast,Male
+362,The Smashing Pumpkins,Mixed
+363,New Order,Male
+364,The Doors,Male
+365,Rage Against the Machine,Male
+366,Johnny Cash,Male
+367,Madonna,Female
+368,Eagles,Male
+369,The Smiths,Male
+370,Mott the Hoople,Male
+371,Arctic Monkeys,Male
+372,The Police,Male
+373,Jefferson Airplane,Mixed
+374,Roxy Music,Male
+375,Jackson Browne,Male
+376,Bjork,Female
+377,John Lee Hooker,Male
+378,Oasis,Male
+379,TLC,Female
+380,Toots & The Maytals,Male
+381,The Beach Boys,Male
+382,The Modern Lovers,Male
+383,Talking Heads,Male
+384,The Who,Male
+385,Bob Dylan,Male
+386,Steely Dan,Male
+387,Wu Tang Clan,Male
+388,Various Artists,Mixed
+389,Don Henley,Male
+390,The White Stripes,Mixed
+391,Jackson Browne,Male
+392,The Beatles,Male
+393,M.I.A.,Female
+394,Randy Newman,Male
+395,LCD Soundsystem,Male
+396,Roxy Music,Male
+397,Massive Attack,Male
+398,ZZ Top,Male
+399,Tom Waits,Male
+400,The Temptations,Male
+401,Red Hot Chili Peppers,Male
+402,Nas,Male
+403,Lynyrd Skynyrd,Male
+404,Dr. John,Male
+405,Big Star,Male
+406,PJ Harvey,Female
+407,The Clash,Male
+408,Sinead O'Connor,Female
+409,The Doors,Male
+410,Bob Dylan,Male
+411,Eric Clapton,Male
+412,Wire,Male
+413,Minutemen,Male
+414,The Go Go's,Female
+415,Van Halen,Male
+416,Tom Waits,Male
+417,U2,Male
+418,Paul McCartney & Wings,Mixed
+419,Portishead,Mixed
+420,The Crickets,Male
+421,Various Artists,Mixed
+422,The Ronettes,Female
+423,Diana Ross & The Supremes,Female
+424,Bruce Springsteen,Male
+425,Gram Parsons,Male
+426,Cheap Trick,Male
+427,Peter Wolf,Male
+428,The Police,Male
+429,Brian Eno,Male
+430,Vampire Weekend,Male
+431,PJ Harvey,Female
+432,Brian Eno,Male
+433,George Harrison,Male
+434,Big Star,Male
+435,Nirvana,Male
+436,Beck,Male
+437,Lil Wayne,Male
+438,The Cure,Male
+439,Sam Cooke,Male
+440,The Pogues,Male
+441,Suicide,Male
+442,DEVO,Male
+443,Cheap Trick,Male
+444,War,Male
+445,Steve Miller Band,Male
+446,MC5,Male
+447,Stan Getz / Joao Gilberto featuring Antonio Carlos Jobim,Male
+448,The Police,Male
+449,Big Star,Male
+450,Jackson Browne,Male
+451,Amy Winehouse,Female
+452,John Prine,Male
+453,EPMD,Male
+454,Alice Cooper,Male
+455,Los Lobos,Male
+456,Marvin Gaye,Male
+457,My Morning Jacket,Male
+458,Elton John,Male
+459,The Drifters,Male
+460,Hole,Female
+461,Public Image Ltd.,Male
+462,R.E.M.,Male
+463,Echo and The Bunnymen,Male
+464,Def Leppard,Male
+465,The Magnetic Fields,Mixed
+466,Coldplay,Male
+467,Bruce Springsteen,Male
+468,The Paul Butterfield Blues Band,Male
+469,Fugees,Mixed
+470,L.L. Cool J,Male
+471,Richard & Linda Thompson,Mixed
+472,George Michael,Male
+473,The Smiths,Male
+474,Manu Chao,Male
+475,Elvis Costello & The Attractions,Male
+476,The Notorious B.I.G.,Male
+477,Merle Haggard,Male
+478,Loretta Lynn,Female
+479,Funkadelic,Mixed
+480,Raekwon,Male
+481,D'Angelo,Male
+482,Steve Earle,Male
+483,Gang of Four,Male
+484,Mott the Hoople,Male
+485,Pearl Jam,Male
+486,"Earth, Wind & Fire",Male
+487,Cyndi Lauper,Female
+488,Husker Du,Male
+489,KISS,Male
+490,ZZ Top,Male
+491,Albert King,Male
+492,Eurythmics,Mixed
+493,Wilco,Male
+494,MGMT,Male
+495,Bonnie Raitt,Female
+496,Boz Scaggs,Male
+497,The White Stripes,Mixed
+498,The Stone Roses,Male
+499,B.B. King,Male
+500,OutKast,Male
